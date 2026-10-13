@@ -1,0 +1,60 @@
+ID_POLIGONO,estado,municipio,AREA_HA,RENDIMIENTO_PREDICHO_T_HA,PRODUCCION_ESTIMADA_T
+AGC_003,Hidalgo,Singuilucan,18.68,3.20056,59.78651
+AGC_011,Puebla,Chignahuapan,7.17,4.44575,31.87604
+AGC_016,Puebla,Chignahuapan,7.47,4.30921,32.18984
+AGC_025,Tlaxcala,Calpulalpan,2.0,2.86642,5.73284
+AGC_027,Tlaxcala,Calpulalpan,8.46,2.97582,25.17541
+AGC_028,Puebla,Chignahuapan,1.86,4.55108,8.46501
+AGC_029,Tlaxcala,Calpulalpan,5.9,3.07837,18.16238
+AGC_030,Hidalgo,Singuilucan,13.05,3.11917,40.70517
+AGC_031,Puebla,Chignahuapan,1.98,4.32541,8.56431
+AGC_036,Puebla,Chignahuapan,5.0,4.33304,21.66522
+AGC_039,Tlaxcala,Calpulalpan,7.71,2.9112,22.44538
+AGC_042,Hidalgo,Singuilucan,3.81,3.04974,11.61952
+AGC_043,Puebla,Chignahuapan,7.15,4.28934,30.66881
+AGC_050,Tlaxcala,Calpulalpan,2.42,2.92832,7.08653
+AGC_052,Hidalgo,Cuautepec de Hinojosa,6.23,4.56315,28.42841
+AGC_061,Tlaxcala,Calpulalpan,7.23,3.01746,21.81622
+AGC_063,Puebla,Chignahuapan,12.54,4.36274,54.70871
+AGC_065,Hidalgo,Almoloya,60.88,4.45381,271.14767
+AGC_071,Tlaxcala,Calpulalpan,5.21,3.10039,16.15306
+AGC_075,Tlaxcala,Calpulalpan,3.9,3.11289,12.14027
+AGC_076,Puebla,Chignahuapan,1.01,4.7147,4.76185
+AGC_082,Hidalgo,Almoloya,2.77,4.55728,12.62367
+AGC_085,Puebla,Chignahuapan,5.5,4.26477,23.45622
+AGC_086,Tlaxcala,Calpulalpan,4.73,2.96463,14.02269
+AGC_087,Tlaxcala,Calpulalpan,5.66,3.01482,17.06389
+AGC_088,Puebla,Chignahuapan,5.91,4.37566,25.86014
+AGC_091,Puebla,Chignahuapan,0.35,4.69896,1.64464
+AGC_093,Tlaxcala,Calpulalpan,3.71,3.11798,11.5677
+AGC_094,Puebla,Chignahuapan,3.63,4.69591,17.04617
+AGC_095,Puebla,Chignahuapan,1.33,4.65522,6.19144
+AGC_107,Hidalgo,Almoloya,2.63,4.54762,11.96025
+AGC_113,Hidalgo,Singuilucan,10.58,2.98396,31.57029
+AGC_116,Puebla,Chignahuapan,7.43,4.29813,31.93514
+AGC_118,Hidalgo,Singuilucan,4.42,3.09694,13.68847
+AGC_120,Tlaxcala,Nanacamilpa de Mariano Arista,7.47,3.00581,22.45337
+AGC_126,Puebla,Chignahuapan,5.75,4.39499,25.27117
+AGC_128,Hidalgo,Almoloya,6.15,4.51945,27.79464
+AGC_129,Hidalgo,Singuilucan,8.16,3.10896,25.36913
+AGC_130,Hidalgo,Cuautepec de Hinojosa,12.1,4.54678,55.01598
+AGC_136,Puebla,Chignahuapan,1.69,4.46884,7.55233
+AGC_142,Puebla,Chignahuapan,1.29,4.77034,6.15374
+AGC_143,Puebla,Chignahuapan,11.48,4.4079,50.60273
+AGC_147,Tlaxcala,Calpulalpan,6.8,2.94834,20.04872
+AGC_149,Hidalgo,Cuautepec de Hinojosa,8.99,4.55611,40.95943
+AGC_153,Puebla,Chignahuapan,1.99,4.35501,8.66647
+AGC_154,Puebla,Chignahuapan,1.49,4.58149,6.82642
+AGC_156,Hidalgo,Singuilucan,8.2,3.17629,26.04562
+AGC_158,Puebla,Chignahuapan,11.22,4.16772,46.76183
+AGC_173,Tlaxcala,Calpulalpan,3.6,2.91305,10.48698
+AGC_174,Hidalgo,Cuautepec de Hinojosa,6.89,4.53652,31.25662
+AGC_175,Puebla,Chignahuapan,1.41,4.58269,6.4616
+AGC_177,Puebla,Chignahuapan,5.66,4.26681,24.15016
+AGC_182,Puebla,Chignahuapan,4.13,4.45358,18.3933
+AGC_183,Tlaxcala,Calpulalpan,7.85,2.95275,23.17911
+AGC_186,Puebla,Chignahuapan,11.7,4.32045,50.54929
+AGC_188,Puebla,Chignahuapan,2.34,4.55962,10.66952
+AGC_190,Puebla,Chignahuapan,5.01,4.54507,22.77082
+AGC_191,Puebla,Chignahuapan,1.75,4.5952,8.0416
+AGC_192,Puebla,Chignahuapan,2.14,4.51205,9.6558

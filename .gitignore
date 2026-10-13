@@ -1,0 +1,16 @@
+# Datos oficiales: no versionamos sin permiso de redistribución.
+DATASET_RETO_AGRO_2026/
+
+# Archivos de ejecución y resultados locales.
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.DS_Store
+salidas/fase1/*
+salidas/fase2/*
+!salidas/fase1/.gitkeep
+!salidas/fase2/.gitkeep
+*.joblib
+catboost_info/
